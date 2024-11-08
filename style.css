@@ -138,4 +138,8 @@ header {
         display: block;
         margin: 0 auto;
     }
+
+    header {
+        display: none;
+    }
 }
