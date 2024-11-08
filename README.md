@@ -3,3 +3,4 @@
 <br>
 <h2>Esse foi um projeto que eu aprendi e desenvolvi no <a href="https://aulas.devclub.com.br/m/courses">DevClub</a></h2>
 
+<img src="https://github.com/matheus-arocha/easy-shopping/blob/master/img/easy-computer.png?raw=true" />
